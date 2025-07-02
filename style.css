@@ -40,11 +40,11 @@ transition: transform 1s;
 }
 
 .card__face--front {
-    background-color: rgb(176, 7, 7);
+    background-color: blue(176, 7, 7);
 }
 
 .card__face--back {
     background-color: rgb(230, 69, 10);
     transform: rotateY(180deg);
-    color: blue;
+    color: black;
 }
