@@ -40,7 +40,7 @@ transition: transform 1s;
 }
 
 .card__face--front {
-    background-color: blue(176, 7, 7);
+    background-color: rgb(11, 186, 212);
 }
 
 .card__face--back {
